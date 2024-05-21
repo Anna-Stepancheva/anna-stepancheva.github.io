@@ -30,8 +30,8 @@ public class MainView extends AppLayout {
         hp.getStyle().setTextAlign(Style.TextAlign.CENTER)
                 .setFontSize("30px");
 
-        vlayout.add(hp);
         vlayout.add(getImage("1"));
+        vlayout.add(hp);
         vlayout.add(getPoem());
 
         Div content = new Div();
