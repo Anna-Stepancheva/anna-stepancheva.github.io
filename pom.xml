@@ -4,9 +4,9 @@
     <modelVersion>4.0.0</modelVersion>
     <!-- Project from https://start.vaadin.com/project/63389893-e7c1-4833-8f07-612e91c88a52 -->
     <groupId>com.example.application</groupId>
-    <artifactId>Lex</artifactId>
+    <artifactId>Lexv0.3</artifactId>
     <name>mytodo</name>
-    <version>0.2</version>
+    <version>0.3</version>
     <packaging>jar</packaging>
 
     <properties>
